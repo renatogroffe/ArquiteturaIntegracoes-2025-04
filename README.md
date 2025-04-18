@@ -25,6 +25,7 @@ Apresentação sobre Arquitetura de Integrações realizada no dia 17/04/2025. T
 - Apache Camel: https://camel.apache.org/docs/
 - KEDA (Kubernetes Event-driven Autoscaling): https://keda.sh/
 - Azure Container Registry: https://learn.microsoft.com/en-us/azure/container-registry/
+- Docker Scout (scanning de vulnerabilidades em imagens): https://docs.docker.com/scout/
 
 ### Desenvolvimento voltado à nuvem
 - Azure Container Apps: https://learn.microsoft.com/en-us/azure/container-apps/
@@ -52,6 +53,8 @@ Apresentação sobre Arquitetura de Integrações realizada no dia 17/04/2025. T
 - Azure Repos: https://learn.microsoft.com/en-us/azure/devops/repos/?view=azure-devops
 - Azure Artifacts: https://learn.microsoft.com/en-us/azure/devops/artifacts/?view=azure-devops
 - Terraform: https://developer.hashicorp.com/terraform/docs
+- SonarQube: 
+- Checkov: 
 - Grafana k6: https://k6.io/
 - OpenTelemetry: https://opentelemetry.io/
 - Postman: https://learning.postman.com/docs/introduction/overview/
