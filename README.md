@@ -53,8 +53,8 @@ Apresentação sobre Arquitetura de Integrações realizada no dia 17/04/2025. T
 - Azure Repos: https://learn.microsoft.com/en-us/azure/devops/repos/?view=azure-devops
 - Azure Artifacts: https://learn.microsoft.com/en-us/azure/devops/artifacts/?view=azure-devops
 - Terraform: https://developer.hashicorp.com/terraform/docs
-- SonarQube: 
-- Checkov: 
+- SonarQube: https://docs.sonarsource.com/
+- Checkov: https://www.checkov.io/
 - Grafana k6: https://k6.io/
 - OpenTelemetry: https://opentelemetry.io/
 - Postman: https://learning.postman.com/docs/introduction/overview/
